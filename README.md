@@ -1,6 +1,6 @@
 # Mini-SIEM
 
-Mini-SIEM is a lightweight Python-based application (Developed by AMAR SAAD)  that reads, displays, filters, and reports on Windows Event Logs in real time.  
+Mini-SIEM is a lightweight Python-based application (Developed by [AMAR SAAD](https://github.com/AMARS44D))  that reads, displays, filters, and reports on Windows Event Logs in real time.  
 It's designed for local monitoring and analysis without the need for complex deployment.
 
 ## 🔧 How to Use
@@ -28,5 +28,5 @@ pip install pywin32 reportlab
 ❗ You don’t need this step if you're only running the .exe file.
 
 
-GitHub: @AMARS44D
+GitHub: [@AMARS44D](https://github.com/AMARS44D)
 
