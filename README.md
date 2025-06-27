@@ -7,7 +7,7 @@ It's designed for local monitoring and analysis without the need for complex dep
 
 To use the application, simply:
 
-1. Go to the folder `Windows exe App/`.
+1. Go to the folder `Windows exe App/` (After Download and Unzip).
 2. You can copy the 'SIEM.exe' file in your desktop for easy use.
 3.  Right-click on `SIEM.exe` and choose **"Run as administrator"** for full log access (especially Security logs).
 4. The interface will launch and display real-time logs from your system.
